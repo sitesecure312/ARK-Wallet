@@ -7,9 +7,9 @@ Use this app to see what you can do with Electron and use the source code to lea
 
 ![ARK-Wallet Screenshots]
 ![Alt text](screenshot/Screenshot1.png)
-<img src="https://github.com/sitesecure312/ARK-Wallet/tree/main/screenshot/Screenshot2.png" align="center" width="888px"/>
-<img src="https://github.com/sitesecure312/ARK-Wallet/tree/main/screenshot/Screenshot3.png" align="center" width="888px"/>
-<img src="https://github.com/sitesecure312/ARK-Wallet/tree/main/screenshot/screenrecording.gif" align="center" width="888px"/>
+![Alt text](screenshot/Screenshot2.png)
+![Alt text](screenshot/Screenshot3.png)
+![Alt text](screenshot/screenrecording.gif)
 
 Visit the [electron website](http://electronjs.org).
 
