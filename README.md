@@ -22,8 +22,7 @@ Use this app to see what you can do with Electron and use the source code to lea
 
 ![Alt text](screenshot/screenrecording.gif "Recording")
 
-Visit the [electron website](http://electronjs.org).
-
+![test image size]<img src="https://github.com/sitesecure312/ARK-Wallet/blob/main/screenshot/screenrecording.gif" width="800" height="790">
 ## Using
 
 You can [download the latest release](https://github.com/sitesecure312/ARK-Wallet) for your operating system or build it yourself (see below).
