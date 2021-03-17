@@ -6,10 +6,10 @@ This is a desktop app that interactively and with sample code demonstrates core 
 Use this app to see what you can do with Electron and use the source code to learn how to create a basic Electron app.
 
 ![ARK-Wallet Screenshots]
-![Alt text](screenshot/Screenshot1.png)
-![Alt text](screenshot/Screenshot2.png)
-![Alt text](screenshot/Screenshot3.png)
-![Alt text](screenshot/screenrecording.gif)
+![Alt text](screenshot/Screenshot1.png "Screenshot1")
+![Alt text](screenshot/Screenshot2.png "Screenshot2")
+![Alt text](screenshot/Screenshot3.png "Screenshot3")
+![Alt text](screenshot/screenrecording.gif "Recording")
 
 Visit the [electron website](http://electronjs.org).
 
