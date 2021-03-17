@@ -33,8 +33,6 @@ $ cd ARK-Wallet
 $ npm install
 $ npm run dev
 ```
-https://github.com/sitesecure312/ARK-Wallet
 
-For easier developing you can launch the app in fullscreen with DevTools open:
 
 
