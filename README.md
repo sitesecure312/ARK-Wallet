@@ -17,7 +17,7 @@ This is a desktop app that interactively and with ARK-Wallet Test demonstrates c
 
 ### Screenrecording
 
-<img src="https://github.com/sitesecure312/ARK-Wallet/blob/main/screenshot/screenrecording.gif" width="800">
+<img src="https://github.com/sitesecure312/ARK-Wallet/blob/main/screenshot/recording.gif" width="800">
 
 ## Using
 
