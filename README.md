@@ -6,14 +6,14 @@ This is a desktop app that interactively and with ARK-Wallet Test demonstrates c
 
 ### Screenshot1
 
-(screenshot/Screenshot1.png "Screenshot1")
+![Alt_text](screenshot/Screenshot1.png "Screenshot1")
 
 ### Screenshot2
-(screenshot/Screenshot2.png "Screenshot2")
+![Alt_text](screenshot/Screenshot2.png "Screenshot2")
 
 ### Screenshot3
 
-(screenshot/Screenshot3.png "Screenshot3")
+![Alt_text](screenshot/Screenshot3.png "Screenshot3")
 
 ### Screenrecording
 
