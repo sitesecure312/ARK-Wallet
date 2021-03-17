@@ -6,10 +6,10 @@ This is a desktop app that interactively and with sample code demonstrates core 
 Use this app to see what you can do with Electron and use the source code to learn how to create a basic Electron app.
 
 ![Electron API Demos Screenshots]
-(https://github.com/sitesecure312/ARK-Wallet/tree/main/screenshot/Screenshot1.png)
-(https://github.com/sitesecure312/ARK-Wallet/tree/main/screenshot/Screenshot2.png)
-(https://github.com/sitesecure312/ARK-Wallet/tree/main/screenshot/Screenshot3.png)
-(https://github.com/sitesecure312/ARK-Wallet/tree/main/screenshot/screenrecording.gif)
+https://github.com/sitesecure312/ARK-Wallet/tree/main/screenshot/Screenshot1.png
+https://github.com/sitesecure312/ARK-Wallet/tree/main/screenshot/Screenshot2.png
+https://github.com/sitesecure312/ARK-Wallet/tree/main/screenshot/Screenshot3.png
+https://github.com/sitesecure312/ARK-Wallet/tree/main/screenshot/screenrecording.gif
 
 Visit the [electron website](http://electronjs.org).
 
@@ -23,7 +23,7 @@ You'll need [Node.js](https://nodejs.org) installed on your computer in order to
 
 ```bash
 $ git clone https://github.com/sitesecure312/ARK-Wallet
-$ cd electron-api-demos
+$ cd ARK-Wallet
 $ npm install
 $ npm run dev
 ```
