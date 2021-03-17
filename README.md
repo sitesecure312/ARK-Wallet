@@ -2,23 +2,22 @@
 
 This is a desktop app that interactively and with ARK-Wallet Test demonstrates core features. It's built with Electron, too, of course. This app works on Windows, macOS.
 
-![ARK-Wallet Screenshots]
+## ARK-Wallet Screenshots
 
-## Screenshot1
+### Screenshot1
 
-![Alt text](screenshot/Screenshot1.png "Screenshot1")
+(screenshot/Screenshot1.png "Screenshot1")
 
-## Screenshot2
+### Screenshot2
+(screenshot/Screenshot2.png "Screenshot2")
 
-![Alt text](screenshot/Screenshot2.png "Screenshot2")
+### Screenshot3
 
-## Screenshot3
+(screenshot/Screenshot3.png "Screenshot3")
 
-![Alt text](screenshot/Screenshot3.png "Screenshot3")
+### Screenrecording
 
-## Screenrecording
-
-![Alt text]<img src="https://github.com/sitesecure312/ARK-Wallet/blob/main/screenshot/screenrecording.gif" width="800">
+<img src="https://github.com/sitesecure312/ARK-Wallet/blob/main/screenshot/screenrecording.gif" width="800">
 
 ## Using
 
