@@ -1,0 +1,13 @@
+#logo svg {
+    width:50px;
+    height:50px;
+}
+
+.logo-text {
+    font-family:inter;
+    font-weight:Extra Bold;
+    font-size:36px;
+    line-height:48px;
+    color:#1F2121;
+}
+

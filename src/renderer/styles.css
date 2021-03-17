@@ -1,0 +1,22 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@font-face {
+    font-family: "Inter-Bold";
+    src: local("Inter-Bold"), url("./assets/fonts/Inter-Bold-slnt=0.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Inter-ExtraBold";
+    src: local("Inter-ExtraBold"), url("./assets/fonts/Inter-ExtraBold-slnt=0.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Inter-Regular";
+    src: local("Inter-Regular"), url("./assets/fonts/Inter-Regular-slnt=0.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Inter-SemiBold";
+    src: local("Inter-SemiBold"), url("./assets/fonts/Inter-SemiBold-slnt=0.ttf") format("truetype");
+}

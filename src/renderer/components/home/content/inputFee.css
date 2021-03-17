@@ -1,0 +1,51 @@
+.fee_input {
+  height: 56px;
+  border-radius: 9999px;
+  padding: 0 20px;
+  width: 100%;
+}
+.fee_input:focus {
+  border: 2px solid #029383;
+  color: black;
+  outline: none;
+}
+.fee_input_slider_div {
+  width:100%;
+  position: relative;
+}
+.fee_input_slider {
+  -webkit-appearance: none;
+  width: 100%;
+  background-color: transparent;
+}
+.fee_input_slider:focus {
+  outline: none;
+}
+.fee_input_slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 8px;
+  height: 16px;
+  cursor: pointer;
+  background: transparent;
+  border: 2px solid transparent;
+}
+.flow_bar {
+  width: calc(100% - 38px);
+  height: 2px;
+  position: absolute;
+  top: 9px;
+  left: 19px;
+  z-index: -1;
+}
+.flow_pointer {
+  width: 8px;
+  height: 16px;
+  cursor: pointer;
+  position: absolute;
+  top: -7px;
+  background: white;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 4px;
+}

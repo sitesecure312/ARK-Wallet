@@ -1,0 +1,21 @@
+#loading_icon {
+    margin-top:100px;
+    margin-left:auto;
+    margin-right:auto;
+    width:150px;
+    height:150px;
+}
+
+#loading_icon p {
+    color:#029383;
+    font-size:24px;
+    text-align:center;
+}
+
+#loading_icon svg circle {
+    stroke:#029383;
+}
+
+#loading_icon svg g {
+    fill:#029383;
+}

@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    background-color:#EAEDEC;
+    height:48px;
+    width:100%;
+}
+
+.footer p{
+    font-size: 14px;
+    font-family: "Inter-Regular";
+    margin:auto;
+}
+
